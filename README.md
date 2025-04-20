@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # learning github
 ## sub
 this to test git readme just
@@ -25,3 +26,4 @@ this is just to test **bold** font
 this is to test *italic* font
 
 this is to test ***Bold + Italic***
+
